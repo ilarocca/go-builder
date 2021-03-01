@@ -1,0 +1,6 @@
+call 'builder file' 
+- makes directory for main builder 
+- compiles file into exe 
+- puts exe file into sub-directory in main directory 
+
+builder hello.go 

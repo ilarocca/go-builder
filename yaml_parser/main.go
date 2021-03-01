@@ -21,7 +21,6 @@ func main() {
 // returns map
  var f interface{}
 
-
 	//yaml-exec file1.yaml
 	//takes second os arg and reads file
 	source, err := ioutil.ReadFile(os.Args[1])
